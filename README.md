@@ -20,10 +20,41 @@ Accede a la versión móvil más reciente para Android:
 
 ## 🚀 Características Principales
 
-*   **Protocolos Clínicos**: Acceso rápido a guías de actuación cardiológica.
-*   **Gestión de Medicación**: Esquemas terapéuticos detallados y actualizados.
-*   **Cálculo Cardiológico**: Herramientas integradas para estratificación de riesgo.
-*   **Offline First**: Toda la información disponible sin necesidad de conexión a internet.
+### 📊 Calculadoras Clínicas Avanzadas
+Más de 40 calculadoras especializadas con fórmulas validadas según guías AHA/ACC y ESC:
+
+*   **Riesgo Cardiovascular:** CHA₂DS₂-VASc, GRACE Score, HAS-BLED, HEART Score.
+*   **Ecocardiografía:** Fracción de Eyección (Simpson Biplano), Gradientes (Bernoulli), PSAP, Masa Ventricular Izquierda, Área Valvular Aórtica/Mitral, Método PISA.
+*   **Electrocardiograma:** Eje Cardíaco Avanzado, Criterios de Sokolow-Lyon, Cornell, Peguero-Lo Presti, Romhilt-Estes, Algoritmo de Brugada, Criterios de Wellens y Sgarbossa.
+*   **Hemodinamia:** Gasto Cardíaco, Índice Cardíaco, Velocidad de Infusión, Heparina.
+
+### 📋 Gestión de Protocolos
+*   Base de datos integral de protocolos cardiológicos.
+*   Creación, edición y favoritos.
+*   Sincronización de datos.
+
+### 💊 Base de Datos de Medicamentos
+*   Información detallada de fármacos cardiovasculares.
+*   Calculadora de dosis y ajustes por peso/función renal.
+
+### 👥 Gestión de Pacientes
+*   Registro de pacientes con datos antropométricos y clínicos.
+*   Importación y exportación de datos.
+*   Estadísticas de la casuística.
+
+### 📡 Adquisición de Señales (Módulo Nativo)
+*   Integración con hardware de adquisición de señales biomédicas (requiere *Custom Build*).
+*   Telemetría cardíaca en tiempo real.
+
+---
+
+## 🔧 Instalación (Desarrolladores)
+
+Si deseas compilar una versión de desarrollo (necesaria para activar módulos nativos):
+
+1.  Clona el repositorio: `git clone https://github.com/AglezDev/Kardia.git`
+2.  Instala dependencias: `pnpm install`
+3.  Compila la app: `pnpm expo run:android`
 
 ---
 
