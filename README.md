@@ -42,20 +42,6 @@ Más de 40 calculadoras especializadas con fórmulas validadas según guías AHA
 *   Importación y exportación de datos.
 *   Estadísticas de la casuística.
 
-### 📡 Adquisición de Señales (Módulo Nativo)
-*   Integración con hardware de adquisición de señales biomédicas (requiere *Custom Build*).
-*   Telemetría cardíaca en tiempo real.
-
----
-
-## 🔧 Instalación (Desarrolladores)
-
-Si deseas compilar una versión de desarrollo (necesaria para activar módulos nativos):
-
-1.  Clona el repositorio: `git clone https://github.com/AglezDev/Kardia.git`
-2.  Instala dependencias: `pnpm install`
-3.  Compila la app: `pnpm expo run:android`
-
 ---
 
 ## 📬 Contacto
