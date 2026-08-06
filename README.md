@@ -13,8 +13,11 @@ Explora nuestras funcionalidades, documentación detallada y más información e
 ---
 
 ## 📱 Descarga la App
-Accede a la versión móvil más reciente para Android:
-👉 [**Descargar Kardia APK (Última versión)**](https://github.com/AglezDev/Kardia/releases/latest)
+**Última versión: v2.2.0** (17 de julio de 2026)
+Descarga el APK directamente desde GitHub:
+👉 [**Descargar Kardia v2.2.0 APK**](https://github.com/AglezDev/Kardia/releases/download/v2.2.0/kardia-v2.2.0-fixed.apk)
+
+*Nota: Si el enlace anterior no funciona, puedes acceder a todos los releases en [Releases de Kardia](https://github.com/AglezDev/Kardia/releases).*
 
 ---
 
@@ -41,6 +44,10 @@ Más de 40 calculadoras especializadas con fórmulas validadas según guías AHA
 *   Registro de pacientes con datos antropométricos y clínicos.
 *   Importación y exportación de datos.
 *   Estadísticas de la casuística.
+
+### 📡 Adquisición de Señales (Módulo Nativo)
+*   Integración con hardware de adquisición de señales biomédicas (requiere *Custom Build*).
+*   Telemetría cardíaca en tiempo real.
 
 ---
 
